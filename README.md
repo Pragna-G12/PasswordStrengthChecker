@@ -89,7 +89,9 @@ A strong password should contain:
 ```
 screenshots.png
 ```
+## Screenshot
 
+![Password Strength Checker](screenshot.png)
 ---
 
 ## 📦 Requirements
