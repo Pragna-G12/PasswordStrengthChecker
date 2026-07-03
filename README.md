@@ -82,16 +82,10 @@ A strong password should contain:
 
 ---
 
+
 ## 📸 Screenshot
 
-> Add a screenshot of your application here.
-
-```
-screenshots.png
-```
-## Screenshot
-
-![Password Strength Checker](screenshot.png)
+![Password Strength Checker](screenshots.png)
 ---
 
 ## 📦 Requirements
