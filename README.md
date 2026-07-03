@@ -1,4 +1,4 @@
-# PasswordStrengthChecker
+
 # Password Strength Checker
 
 ## Description
