@@ -1,4 +1,4 @@
-<img width="534" height="659" alt="screenshots" src="https://github.com/user-attachments/assets/706bde4b-9d7c-47a4-ae1f-c7c23e0d93e1" />
+
 # 🔐 Password Strength Checker
 
 A Python desktop application that checks the strength of a password based on standard security rules. The application also generates secure passwords, provides a password strength indicator, and offers useful features like copy-to-clipboard and live password checking.
@@ -85,8 +85,7 @@ A strong password should contain:
 
 
 ## 📸 Screenshot
-
-![Password Strength Checker](screenshots.png)
+<img width="534" height="659" alt="screenshots" src="https://github.com/user-attachments/assets/706bde4b-9d7c-47a4-ae1f-c7c23e0d93e1" />
 ---
 
 ## 📦 Requirements
