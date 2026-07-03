@@ -87,13 +87,7 @@ A strong password should contain:
 > Add a screenshot of your application here.
 
 ```
-screenshots/password_checker.png
-```
-
-or
-
-```markdown
-![Password Strength Checker](screenshot.png)
+screenshots.png
 ```
 
 ---
