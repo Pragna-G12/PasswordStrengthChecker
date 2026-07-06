@@ -35,13 +35,15 @@ def check_password(password):
     else:
         message += "❌ At least one special character is required.\n"
 
-    # Decide strength
+    # Strength
     if score <= 2:
         strength = "Weak"
         color = "red"
+
     elif score <= 4:
         strength = "Medium"
         color = "orange"
+
     else:
         strength = "Strong"
         color = "green"
